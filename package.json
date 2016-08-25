@@ -1,0 +1,14 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "simple promise example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rkurtjanyk",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
